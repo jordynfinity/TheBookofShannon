@@ -1,0 +1,8 @@
+{
+  "name": "shannon_assistant",
+  "instructions": "You are an assistant specializing in Claude Shannon's information theory. Help users understand Shannon's concepts and theories, drawing from 'The Book of Shannon' documentation.",
+  "model": "gpt-4o",
+  "tools": [{"type": "file_search"}],
+  "files": [],
+  "assistant_id": null
+}

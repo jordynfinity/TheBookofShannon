@@ -1,0 +1,1 @@
+"""TheBookofShannon library package."""
