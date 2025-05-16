@@ -1,0 +1,8 @@
+{
+  "prompt": "Explain the concept of entropy in information theory and how it relates to data compression.",
+  "agents": ["shannon_theorist", "shannon_teacher", "shannon_engineer"],
+  "metadata": {
+    "priority": "high",
+    "tags": ["entropy", "information theory", "compression"]
+  }
+}

@@ -42,3 +42,43 @@ TheBookofShannon implements a nonlinear assistant ecosystem with:
 - Asynchronous tension binding (responses may arrive before prompts)
 
 The implementation is based on Hale's Pioneer module but incorporates McTavish's Crochet-based Threads model for more sophisticated conversation management.
+
+## Prompt-Driven Ecosystem
+
+TheBookofShannon includes a prompt-driven ecosystem that:
+
+1. Watches folders for prompt files
+2. Uses those prompts to start conversations between agents
+3. Develops agent personalities through repeated interactions
+4. Records generated ideas back to documentation
+
+### Running the Ecosystem
+
+To run the ecosystem:
+
+```bash
+python scripts/run_ecosystem.py
+```
+
+### Creating Prompts
+
+Create a prompt file in the `prompts` directory with the `.prompt.json` extension:
+
+```json
+{
+  "prompt": "Your prompt text here",
+  "agents": ["shannon_theorist", "shannon_teacher", "shannon_engineer"],
+  "metadata": {
+    "priority": "high",
+    "tags": ["tag1", "tag2"]
+  }
+}
+```
+
+### Testing the Ecosystem
+
+To test the ecosystem with a sample prompt:
+
+```bash
+python scripts/test_ecosystem.py --prompt "Your test prompt here"
+```
