@@ -1,0 +1,1 @@
+"""TheBookofShannon package."""
