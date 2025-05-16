@@ -1,0 +1,262 @@
+{
+  "main": {
+    "id": "62e5de2b1c2627d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "22d9f41474c672f7",
+        "type": "tabs",
+        "dimension": 66.07460035523978,
+        "children": [
+          {
+            "id": "cd73b05895842d0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quotes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Quotes"
+            }
+          },
+          {
+            "id": "a6f0d02435513382",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "“A mathematical theory of communication... should serve as a broad framework.” – Claude Shannon.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "“A mathematical theory of communication... should serve as a broad framework.” – Claude Shannon"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "7e2d07e62762cf2a",
+        "type": "tabs",
+        "dimension": 33.92539964476021,
+        "children": [
+          {
+            "id": "8ffc9c093261591b",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "“A mathematical theory of communication... should serve as a broad framework.” – Claude Shannon.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of “A mathematical theory of communication... should serve as a broad framework.” – Claude Shannon"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "549310734ca5daa5",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7fba2fc5811dc46",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3581e5d43eaaf8e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1369a9eb0842ce56",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "62bfa05c57591639",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "dbab89e2c8c0e310",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b017457652681ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2531f216ee5101e8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "“A mathematical theory of communication... should serve as a broad framework.” – Claude Shannon.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for “A mathematical theory of communication... should serve as a broad framework.” – Claude Shannon"
+            }
+          },
+          {
+            "id": "35e6f50dbb5ace11",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "“A mathematical theory of communication... should serve as a broad framework.” – Claude Shannon.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from “A mathematical theory of communication... should serve as a broad framework.” – Claude Shannon"
+            }
+          },
+          {
+            "id": "49241b41a4f7dddc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "18497ef76189cdc4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "“A mathematical theory of communication... should serve as a broad framework.” – Claude Shannon.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of “A mathematical theory of communication... should serve as a broad framework.” – Claude Shannon"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false
+    }
+  },
+  "active": "a6f0d02435513382",
+  "lastOpenFiles": [
+    "“A mathematical theory of communication... should serve as a broad framework.” – Claude Shannon.md",
+    "Quotes.md",
+    "“The system must be considered as a whole, not merely in its parts.” – Claude Shannon.md",
+    "“Any difference that makes a difference can be a signal.” – Claude Shannon.md",
+    "“Perfect secrecy is obtained when the key is as long as the message and chosen at random.” – Claude Shannon.md",
+    "“We shall use the term ‘information’ to refer to the logarithm of the number of choices.” – Claude Shannon.md",
+    "“The significant aspect is that the actual message is one selected from a set of possible messages.” – Claude Shannon.md",
+    "“Entropy is a measure of the uncertainty in a random variable.” – Claude Shannon.md",
+    "“We now consider the problem of transmitting information over a noisy channel.” – Claude Shannon.md",
+    "The significant aspect is that the actual message is one selected from a set of possible messages..md",
+    "“Noise becomes meaningful when it selects against a message.” – Claude Shannon.md",
+    "“The fundamental problem of communication is reproducing at one point a message selected at another.” – Claude Shannon.md",
+    "“Information is the resolution of uncertainty.” – Claude Shannon.md",
+    "“Coding is the structure through which uncertainty becomes control.” – Claude Shannon.md",
+    "“Mathematics is the language nature uses to hide her secrets.” – Richard Feynman.md",
+    "“Understanding is a series of renamings until reality stops resisting.” – Richard Feynman.md",
+    "“The act of observation changes the observed.” – Werner Heisenberg.md",
+    "“Collapse is not destruction. It is decision.” – Erwin Schrödinger.md",
+    "“The significant aspect is not the actual content, but the selection of possibilities.” – Claude Shannon.md",
+    "“Quantum computing is not about speed. It’s about parallelism with structure.” – John Preskill.md",
+    "“The fundamental problem of communication is that of reproducing at one point either exactly or approximately a message selected at another point.” – Claude Shannon.md",
+    "We now consider the problem of transmitting information over a noisy channel..md",
+    "The fundamental problem of communication is that of reproducing at one point either exactly or approximately a message selected at another point..md",
+    "Entropy is a measure of the uncertainty in a random variable..md",
+    "Claude Shannon.md",
+    "The problem of transmitting information over a noisy channel.md"
+  ]
+}
