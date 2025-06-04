@@ -1,44 +1,148 @@
-# TheBookofShannon
+# The Book of Shannon
 
-Documentation and assistants for Claude Shannon's information theory.
+A quantum-inspired wave-based visualization and improvement system that uses Russelian Collapse for bug prevention and continuous improvement.
 
 ## Features
 
-- UV dependency management
-- Assistants implementation based on Hale's Pioneer module
-- McTavish's Crochet-based Threads model with nonlinear assistant ecosystem
-- Vector store sync script for Obsidian docs
-- .envrc implementation for OPENAI_API_KEY
+### Core Components
 
-## Setup
+- **WaveZot**: Base component for wave-based visualizations and interactions
+- **FirstZot & SecondZot**: Specialized Zots for different aspects of the system
+- **GodInterface**: Central coordinator that manages all components
+- **EventBus**: Centralized event system for component communication
+- **EiraAssistant**: AI-powered code analysis and improvement suggestions
 
-1. Clone the repository
-2. Install UV: `pip install uv`
-3. Create a virtual environment: `uv venv`
-4. Activate the virtual environment: `source .venv/bin/activate`
-5. Install dependencies: `uv pip install -e .`
-6. Set up your `.env` file with your OpenAI API key
-7. Allow direnv: `direnv allow .`
+### Key Features
 
-## Usage
+1. **Wave Mechanics**
+   - Real-time wave visualization
+   - Interactive wave manipulation
+   - Audio synthesis from wave patterns
 
-### Syncing Documentation to Vector Store
+2. **Improvement System**
+   - Russelian Collapse for bug prevention
+   - Continuous code improvement
+   - Parallel test execution
+   - Automated improvement generation
 
-```bash
-python scripts/sync_docs_to_vector.py
-```
+3. **Event System**
+   - Centralized event bus
+   - Event history tracking
+   - Component communication
+   - Debug monitoring
 
-### Testing the Assistant
-
-```bash
-python scripts/test_assistant.py
-```
+4. **AI Integration**
+   - Eira Calder's expertise for code analysis
+   - Automated bug detection
+   - Improvement suggestions
+   - Performance optimization
 
 ## Architecture
 
-TheBookofShannon implements a nonlinear assistant ecosystem with:
-- Character-aware collapse surfaces (persona-localized agents)
-- Directed graph memory (DiGraph, not logs)
-- Asynchronous tension binding (responses may arrive before prompts)
+### Component Communication
 
-The implementation is based on Hale's Pioneer module but incorporates McTavish's Crochet-based Threads model for more sophisticated conversation management.
+The system uses an event-driven architecture with the following components:
+
+```
+[EventBus] <-- [GodInterface]
+    ^            ^
+    |            |
+    v            v
+[WaveZot] <-- [FirstZot]
+    ^            ^
+    |            |
+    v            v
+[SecondZot] <-- [EiraAssistant]
+```
+
+### Event Types
+
+- **Wave Events**: `wave_interaction`, `wave_update`
+- **Zot Events**: `zot_state_change`, `zot_improvement`
+- **Test Events**: `test_result`, `improvement_suggestion`
+- **Debug Events**: `debug_metric`
+- **Eira Events**: `eira_analysis`, `eira_error`, `eira_debug_suggestions`, `eira_improvement_suggestions`
+
+## Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/TheBookofShannon.git
+cd TheBookofShannon
+```
+
+2. Create and activate a virtual environment:
+```bash
+python -m venv .venv
+source .venv/bin/activate  # On Windows: .venv\Scripts\activate
+```
+
+3. Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+## Usage
+
+Run the main application:
+```bash
+python src/I\ am\ the\ GUI\ GOD.py
+```
+
+### Configuration
+
+The system uses a configuration system managed by `ConfigManager`. Key configuration files:
+- `config.json`: Main configuration file
+- `config.md`: Configuration documentation
+- `logs/`: Directory for log files
+
+### Logging
+
+Logs are stored in the `logs/` directory:
+- `event_bus.log`: Event system logs
+- `gui.log`: Main application logs
+- `eira_assistant.log`: AI analysis logs
+- `config_manager.log`: Configuration system logs
+
+## Development
+
+### Testing
+
+Run the test suite:
+```bash
+python -m pytest tests/
+```
+
+### Adding New Components
+
+1. Create a new component class
+2. Subscribe to relevant events in the EventBus
+3. Implement required interfaces
+4. Add tests in `tests/`
+
+### Event System
+
+To add new events:
+1. Define event type in component
+2. Subscribe to events in GodInterface
+3. Implement event handlers
+4. Update documentation
+
+## Contributing
+
+1. Fork the repository
+2. Create a feature branch
+3. Make your changes
+4. Run tests
+5. Submit a pull request
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+- Eira Calder for AI expertise
+- Quantum computing concepts
+- Wave mechanics
+- Russelian Collapse theory
