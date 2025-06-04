@@ -1,0 +1,28 @@
+{
+    "window": {
+        "width": 800,
+        "height": 600,
+        "title": "Test Window",
+        "fps": 60
+    },
+    "wave": {
+        "amplitude": 1.0,
+        "frequency": 1.0,
+        "phase": 0.0,
+        "interaction_decay": 0.1
+    },
+    "audio": {
+        "sample_rate": 44100,
+        "buffer_size": 1024,
+        "channels": 2
+    },
+    "resources": {
+        "optimization_threshold": 0.8,
+        "max_history": 100
+    },
+    "logging": {
+        "level": "DEBUG",
+        "format": "%(asctime)s - %(name)s - %(levelname)s - %(message)s",
+        "file": "test.log"
+    }
+} 

@@ -1,0 +1,1 @@
+A piece of [[information]] that survives through [[culture]]

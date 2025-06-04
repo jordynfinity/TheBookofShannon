@@ -1,0 +1,15 @@
+2025-06-03 19:55:54,573 - GodInterface - INFO - Pygame initialized successfully
+2025-06-03 19:55:54,674 - GodInterface - INFO - Window initialized: 800x600 @ 60fps
+2025-06-03 19:55:54,674 - GodInterface - ERROR - Failed to set up Zots: WaveZot.__init__() got an unexpected keyword argument 'amplitude'
+2025-06-03 19:58:53,833 - GodInterface - INFO - Pygame initialized successfully
+2025-06-03 19:58:53,909 - GodInterface - INFO - Window initialized: 800x600 @ 60fps
+2025-06-03 19:58:53,909 - GodInterface - ERROR - Failed to set up Zots: WaveZot.__init__() got an unexpected keyword argument 'amplitude'
+2025-06-03 20:03:28,577 - GodInterface - INFO - Pygame initialized successfully
+2025-06-03 20:03:28,672 - GodInterface - INFO - Window initialized: 800x600 @ 60fps
+2025-06-03 20:03:28,684 - GodInterface - ERROR - Failed to set up Zots: FirstZot.__init__() takes 2 positional arguments but 3 were given
+2025-06-03 20:07:29,064 - GodInterface - INFO - Pygame initialized successfully
+2025-06-03 20:07:29,153 - GodInterface - INFO - Window initialized: 800x600 @ 60fps
+2025-06-03 20:07:29,160 - GodInterface - ERROR - Failed to set up Zots: 'ImprovementChain' object has no attribute 'add_zot'
+2025-06-03 20:10:06,803 - GodInterface - INFO - Pygame initialized successfully
+2025-06-03 20:10:06,903 - GodInterface - INFO - Window initialized: 800x600 @ 60fps
+2025-06-03 20:10:06,905 - GodInterface - ERROR - Failed to set up Zots: 'ImprovementChain' object has no attribute 'add_zot'

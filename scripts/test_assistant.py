@@ -8,8 +8,6 @@ import sys
 from dotenv import load_dotenv
 from openai import OpenAI
 
-sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
-
 from src.lib.pioneer.assistant_client_crochet import CrochetAssistantClient
 
 def main():

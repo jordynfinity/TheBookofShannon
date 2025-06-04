@@ -1,0 +1,38 @@
+{
+    "window": {
+        "width": 800,
+        "height": 600,
+        "title": "The Book of Shannon",
+        "fps": 60
+    },
+    "wave": {
+        "amplitude": 50,
+        "frequency": 0.1,
+        "phase": 0,
+        "interaction_decay": 0.95
+    },
+    "audio": {
+        "sample_rate": 44100,
+        "buffer_size": 1024,
+        "channels": 2
+    },
+    "resource_management": {
+        "optimization_threshold": 0.8,
+        "max_history": 1000
+    },
+    "logging": {
+        "level": "DEBUG",
+        "format": "%(asctime)s - %(name)s - %(levelname)s - %(message)s",
+        "file": "logs/gui.log"
+    },
+    "improvement": {
+        "max_attempts": 10,
+        "max_processes": 4,
+        "timeout": 300,
+        "coverage_threshold": 0.8,
+        "validation_depth": 3,
+        "auto_apply": true,
+        "save_attempts": true,
+        "log_level": "DEBUG"
+    }
+} 

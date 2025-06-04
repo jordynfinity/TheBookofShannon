@@ -70,8 +70,6 @@
 
 [[“We can never speak about nature without, at the same time, speaking about ourselves.” – Werner Heisenberg]]
 
-[[“The smallest constituents of matter are not objects. They are relationships.” – Werner Heisenberg]]
-
 [[“All science is rooted in the act of limitation.” – Werner Heisenberg]]
 
 [[“We do not create structure—we inherit constraint.” – Werner Heisenberg]]
